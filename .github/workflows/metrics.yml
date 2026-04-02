@@ -15,7 +15,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           # Token de autenticação (obrigatório)
           token: ${{ secrets.METRICS_TOKEN }}
