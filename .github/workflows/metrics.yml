@@ -1,36 +1,19 @@
-name: GitHub Metrics
-
+name: Metrics
 on:
-  # Permite execução manual do workflow
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-
-  # Executa automaticamente todo dia às 6h da manhã (UTC)
-  schedule:
-    - cron: "0 6 * * *"
-
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
     permissions:
       contents: write
-
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Token de autenticação (obrigatório)
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Seu usuário do GitHub
-          user: rbizarrias
-
-          debug: true
-          config_output: svg
-
-          # Nome do arquivo que será gerado
-          filename: assets/metrics.svg
-
-          # Seções base a serem incluídas
-          base: header, activity, community, repositories, metadata
-
-          # Plugin de linguagens de programação
-          plugin_languages: no
