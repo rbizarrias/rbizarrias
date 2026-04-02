@@ -4,4 +4,4 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-![Metrics](./assets/metrics.svg)
+![Metrics](/github-metrics.svg)
