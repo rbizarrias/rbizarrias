@@ -3,5 +3,5 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-
-![Metrics](/github-metrics.svg)
+    
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
