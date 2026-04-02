@@ -18,10 +18,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Configurações gerais
-          config_timezone: America/Recife
-          config_theme: dark
-
           # Plugin de linguagens
           plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
