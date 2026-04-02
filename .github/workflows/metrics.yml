@@ -19,7 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Configurações gerais
-          base: header, activity, community, repositories, metadata
           config_timezone: America/Recife
           config_theme: dark
 
