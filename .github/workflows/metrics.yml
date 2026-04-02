@@ -23,6 +23,9 @@ jobs:
           # Seu usuário do GitHub
           user: rbizarrias
 
+          debug: true
+          config_output: svg
+
           # Nome do arquivo que será gerado
           filename: assets/metrics.svg
 
