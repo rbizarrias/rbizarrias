@@ -1,22 +1,15 @@
 <div align="center">
-  <img src="./banner.png" alt="Rivaldo Bizarrias banner" width="100%" />
 
-  <h1>Rivaldo Bizarrias</h1>
+![Rivaldo Bizarrias banner](./banner.png)
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=00B894&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack+focado+em+entrega;Arquitetura+limpa+e+software+escalável;Cloud%2C+Kubernetes+e+sistemas+distribuídos"
-    alt="Typing intro"
-  />
+# Rivaldo Bizarrias
 
-  <a href="https://github.com/rbizarrias">
-    <img src="https://komarev.com/ghpvc/?username=rbizarrias&style=for-the-badge&color=0e9384&label=Visualizações" alt="Profile views" />
-  </a>
-  <a href="https://github.com/rbizarrias?tab=followers">
-    <img src="https://img.shields.io/github/followers/rbizarrias?style=for-the-badge&logo=github&label=Seguidores&color=1abc9c" alt="Followers" />
-  </a>
-  <a href="https://github.com/rbizarrias?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=16a085&label=Repositórios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frbizarrias" alt="Public repositories" />
-  </a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=00B894&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack+focado+em+entrega;Arquitetura+limpa+e+software+escalavel;Cloud+Kubernetes+e+sistemas+distribuidos)
+
+[![Visualizacoes](https://komarev.com/ghpvc/?username=rbizarrias&style=for-the-badge&color=0e9384&label=Visualizacoes)](https://github.com/rbizarrias)
+[![Seguidores](https://img.shields.io/github/followers/rbizarrias?style=for-the-badge&logo=github&label=Seguidores&color=1abc9c)](https://github.com/rbizarrias?tab=followers)
+[![Repositorios](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=16a085&label=Repositorios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frbizarrias)](https://github.com/rbizarrias?tab=repositories)
+
 </div>
 
 ---
