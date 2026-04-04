@@ -62,7 +62,9 @@ Tenho experiência com:
 ## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,python,java,docker,kubernetes,aws,postgres,mysql,mongodb,git&perline=7" />
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,python,java,docker,kubernetes,aws,postgres,mysql,mongodb,git&perline=7)](https://github.com/rbizarrias)
+
 </div>
 
 ---
@@ -76,10 +78,9 @@ Tenho experiência com:
 ## 📫 Contato
 
 <div align="center">
-  <a href="https://github.com/rbizarrias">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/rivaldo-bizarrias">
-    <img src="https://img.shields.io/badge/LinkedIn-Rivaldo_Bizarrias-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+
+[![Github](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/rbizarrias)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Rivaldo_Bizarrias-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rivaldo-bizarrias)
+
 </div>
